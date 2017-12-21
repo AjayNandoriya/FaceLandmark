@@ -4,8 +4,8 @@ Facial Landmark detection
 This code will generate facial landmark file (.mat) to be used in other projects. It reads *.png format image from given directory.
 Please modify in code if other image format is being used.
 
-Multiple Image Usage:
+Multiple Image Usage:<br/>
 python face_detect.py --folder "image directory"
 
-Single Image Usage:
+Single Image Usage:<br/>
 python face_detect.py --image "image filename"
